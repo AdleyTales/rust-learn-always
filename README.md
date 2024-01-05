@@ -1,2 +1,3 @@
-# rust-learn-always
-rust学习
+# rust-learn-always 
+
+rust学习之路
